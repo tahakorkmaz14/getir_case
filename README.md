@@ -67,7 +67,7 @@ $ brew install heroku/brew
 
 > Deployed Heroku application link
   
-  https://glacial-tundra-14785.herokuapp.com/get
+  http://johnshepard14.herokuapp.com/get
 
 > Example Body of the POST request
 

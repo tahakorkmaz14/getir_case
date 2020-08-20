@@ -15,7 +15,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/apasabeyoglu/getir`
+- Clone this repo to your local machine using `https://github.com/tahakorkmaz14/getir_case`
 
 ### Setup
 
@@ -67,7 +67,7 @@ $ brew install heroku/brew
 
 > Deployed Heroku application link
   
-  https://vibrant-moliere-62617.herokuapp.com/get
+  https://glacial-tundra-14785.herokuapp.com/get
 
 > Example Body of the POST request
 
